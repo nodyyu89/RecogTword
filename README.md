@@ -15,10 +15,12 @@ The aim of this object is to recognize handwritten English letters.
 
 -self_trained_model_alphrbet2.py : it is a py script to train a model which can recognize handwritten objects with the use of CNN model and keras library.
 
--A-E_model.h5 , modelA-E.json : a trained model by keras
+-A-E_model.h5 , modelA-E.json : a trained model using keras library
 
 -image_data : some English letters jpg data, it is recommended to add your data in order to train a better model
 
 # Required library
 
 -numpy, keras, tensorflow, PIL, matplotlib, PyQt5, python 3.5+
+
+
