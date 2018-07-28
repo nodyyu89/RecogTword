@@ -11,7 +11,7 @@ The aim of this object is to recognize handwritten English letters.
 
 -guipy.py : the main gui file, you can just run it in the same file folder if you want a quick review
 
--draggable_rectangle2.py : the main gui file, you can just run it in the same file folder if you want a quick review
+-draggable_rectangle2.py : In the gui file, you have to drag and draw a rectangle to locate the area that the handwritten objects is located
 
 -self_trained_model_alphrbet2.py : it is a py script to train a model which can recognize handwritten objects with the use of CNN model and keras library.
 
