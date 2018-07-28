@@ -18,3 +18,7 @@ The aim of this object is to recognize handwritten English letters.
 -A-E_model.h5 , modelA-E.json : a trained model by keras
 
 -image_data : some English letters jpg data, it is recommended to add your data in order to train a better model
+
+# Required library
+
+-numpy, keras, tensorflow, PIL, matplotlib, PyQt5
